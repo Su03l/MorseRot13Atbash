@@ -84,7 +84,7 @@ function atbash(str) {
 
 // Function to navigate to HomePage.html when the "Back" button is clicked
 function goToHomePage() {
-    window.location.href = "homePgae.html"; // Redirect to HomePage.html
+    window.location.href = "index.html"; // Redirect to HomePage.html
 }
 
 // Attach the function to the "Back" button
